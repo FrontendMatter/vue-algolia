@@ -1,0 +1,7 @@
+{
+  "name": "vue-algolia",
+  "description": "Vue.js components with integration to Algolia Search",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {}
+}
