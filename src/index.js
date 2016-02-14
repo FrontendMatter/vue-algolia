@@ -1,8 +1,8 @@
 // Load components
-import AlgoliaInstantsearchDropdown from './components/algolia-instantsearch-dropdown'
+import AlgoliaSearchDropdown from './components/algolia-search-dropdown'
 
 let VueAlgolia = {
-	AlgoliaInstantsearchDropdown
+	AlgoliaSearchDropdown
 }
 
 // Setup
